@@ -7,7 +7,7 @@ l=int(input("Low:"))
 c=int(input("Close:"))
 # This is a script by Shashi Prkash Agarwal to calculate support, resistance and pivot point of stocks
 p=(h+c+l)/3
-
+#Ashish Made a change here
 r3=h+2*(p-l)
 r1=2*p-l
 s1=2*p-h
